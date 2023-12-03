@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'MADE TOMMY BOLD';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MADE TOMMY Bold_PERSONAL USE'), url('MADE TOMMY Bold_PERSONAL USE.woff') format('woff');
+}
+@font-face {
+    font-family: 'MADE TOMMY Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MADE TOMMY Regular_PERSONAL USE'), url('MADE TOMMY Regular_PERSONAL USE.woff') format('woff');
+}
+@font-face {
+    font-family: 'MADE TOMMY Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MADE TOMMY Light_PERSONAL USE'), url('MADE TOMMY Light_PERSONAL USE.woff') format('woff');
+}
+@font-face {
+    font-family: 'MADE TOMMY Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MADE TOMMY Medium_PERSONAL USE'), url('MADE TOMMY Medium_PERSONAL USE.woff') format('woff');
+}
